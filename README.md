@@ -10,7 +10,7 @@
 | Project Demo | Project Link | Stack | Project Preview |
 |--------------|--------------|-------|-----------------|
 | [Netflix-App](https://fabulous-dieffenbachia-4f0e44.netlify.app/) | [Repo](https://github.com/Nursaadet/netflix-app) | React, Next.js, Redux Toolkit, CSR/SSR, TailwindCSS, Firebase, Rest-Api| ![preview](https://github.com/Nursaadet/netflix-app/blob/main/netflix.gif?raw=true) |
-| [Redux-Store-App](https://shopping-reduxapp.netlify.app/) | [Repo](https://github.com/Nursaadet/redux-store-app) | React, Axios, Material-UI, TailwindCSS, , React Router, Private Router | ![preview](https://github.com/Nursaadet/redux-store-app/blob/master/store.gif?raw=true) |
+| [Redux-Store-App](https://shopping-reduxapp.netlify.app/) | [Repo](https://github.com/Nursaadet/redux-store-app) | React, Axios, Material-UI, TailwindCSS, , React Router, Private Router, Rest Api | ![preview](https://github.com/Nursaadet/redux-store-app/blob/master/store.gif?raw=true) |
 | [Firebase-React-Movie-App](https://firebase-movie.netlify.app/) | [Repo](https://github.com/Nursaadet/Firebase-React-Movie-App) | React, Firebase, Context-Api-Rest-API, TailwindCSS  | ![preview](https://github.com/Nursaadet/Firebase-React-Movie-App/blob/main/movie.gif?raw=true) |
 | [React-Store-App](https://storee-react.netlify.app/) | [Repo](https://github.com/Nursaadet/React-Store-App) | React, Axios, Material-UI, TailwindCSS, , React Router, Private Router , Rest Api | ![preview](https://github.com/Nursaadet/React-Store-App/blob/master/store.gif?raw=true) |
 
